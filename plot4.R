@@ -1,6 +1,5 @@
 # load required packages
 library(dplyr)
-library(ggplot2)
 
 # read datasets from disk into dataframes
 pm <- readRDS("summarySCC_PM25.rds")
